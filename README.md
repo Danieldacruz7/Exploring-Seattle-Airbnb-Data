@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#project-motivation](#Project Motivation)
+1. [Project Motivation](https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#project-motivation)
 2. Installations
 3. File Descriptions
 4. How To Interact With the Project
