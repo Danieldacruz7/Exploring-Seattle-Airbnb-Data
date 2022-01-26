@@ -3,10 +3,10 @@
 ## Table of Contents
 
 1. [Project Motivation](https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#project-motivation)
-2. Installations
-3. File Descriptions
-4. How To Interact With the Project
-5. Licensing, Authors, Acknowledgements
+2. [Installations](https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#installations)
+3. [File Descriptions](https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#file-descriptions)
+4. [How To Interact With the Project](https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#how-to-interact-with-the-project)
+5. [Licensing, Authors, Acknowledgements](https://github.com/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/README.md#licensing-authors-acknowledgements)
 
 ## Project Motivation:
 For 10 straight years, Seattle has been seeing a record number of tourists. In 2019, the number of people visiting Seattle rose to 41.9 million [1]. This influx has lead to the proliferation of rental properties in the city. Airbnb rentals have become a popular form of accommodation, and finding them is the city is not difficult.
