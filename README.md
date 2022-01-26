@@ -7,7 +7,7 @@
 4. How To Interact With the Project
 5. Licensing, Authors, Acknowledgements
 
-Project Motivation:
+# Project Motivation:
 For 10 straight years, Seattle has been seeing a record number of tourists. In 2019, the number of people visiting Seattle rose to 41.9 million [1]. This influx has lead to the proliferation of rental properties in the city. Airbnb rentals have become a popular form of accommodation, and finding them is the city is not difficult.
 
 This project aims to explore the available data from Kaggle on Seattle Airbnb data. The main topics will include determining price distributions, and ratings distribution across Seattle, Washington. A linear regression model will be used to predict the price, and rating of Seattle Airbnb rentals. This project forms part of Udacity's Data Scientist Nanodegree.  
