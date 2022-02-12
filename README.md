@@ -31,6 +31,8 @@ The Seattle_AirBNB_Data file is the main file to be viewed. The seattle.zip file
 ## How To Interact With the Project
 The main report, Seattle_AirBNB_Data.ipynb, is a Jupyter notebook. All code and outputs can be viewed by opening the file on Github. If, however, there are any issues viewing the file, it may be due to Github being unable to render the file. If this occurs, visit https://nbviewer.org/github/Danieldacruz7/Exploring-Seattle-Airbnb-Data/blob/main/Seattle_AirBNB_Data.ipynb. Here you will be able to view the file without issues.
 
+Alternatively, if you'd like a concise version of the project, the blog post can be viewed at https://bit.ly/3HYoEe0. 
+
 
 ## Licensing, Authors, Acknowledgements
 
